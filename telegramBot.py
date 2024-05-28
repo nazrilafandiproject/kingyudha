@@ -11,6 +11,7 @@ user_questions = []
 responses = {
     #sapaan
     'hai' 'hello' 'hi' 'p': 'Hello',
+    'woy kutu loncat' : 'woy',
     
     #topik terkait toko
     'kapan toko akan tutup' 'toko kapan tutup' 'toko buka sampe kapan': 'Toko biasanya tutup pada pukul 19:00 WIB untuk Weekdays dan pukul 13:00 WIB untuk hari Minggu.',
